@@ -3,7 +3,7 @@
 <p>Node.js<p>
 
 <p>Download Code</p>
-<p> To use this bot, enter discord token into config.json for help on recieving token visit https://github.com/megadrive/discord-selfbot/blob/master/GettingYourUserToken.md (open config.json with text editor such as notepad)</p>
+<p> To use this bot, enter discord token into config.json; for help on recieving token visit https://github.com/megadrive/discord-selfbot/blob/master/GettingYourUserToken.md (open config.json with text editor such as notepad)</p>
   <br></br>
    <br></br>
   <p> Open Node.js in spambot folder </p>
