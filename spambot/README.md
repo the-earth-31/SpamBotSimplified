@@ -10,5 +10,5 @@
   <p> Enter "npm install prompt-sync" </p>
   <p> Type "node bot.js" into console
   <p> Type "/spam" into Discord on target account </p>
- <p>WARNING: THIS BOT VIOLATES TOS AND MAY RESULT IN A BAN IF REPORTED<p>
+ <p>WARNING: THIS BOT MAY RESULT IN A BAN IF REPORTED<p>
   <p>ALT ACCOUNT SUGGESTED<p>
