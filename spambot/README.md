@@ -1,6 +1,6 @@
 
 <p> Applications Needed: </p>
-<p>Node.js<p>
+<p>Node.js (https://nodejs.org/en/)<p>
 <p>Command Promp (previously installed with Windows)<p>
 
 <p>Download Code</p>
