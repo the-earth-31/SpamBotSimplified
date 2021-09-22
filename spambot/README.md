@@ -8,6 +8,7 @@
   <br></br>
    <br></br>
   <p> Open cmd in spambot folder </p>
+  <p> Type "npm install" <p>
   <p> Enter "npm install prompt-sync" </p>
   <p> Type "node bot.js" into console
   <p> Type "/spam" into Discord on target account </p>
